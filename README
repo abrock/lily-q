@@ -93,7 +93,7 @@ If you use a different keyboard layout (German for example), some characters may
 
 specialKeyboardLayout = "de"
 
-for German keyboards. Then add keyboard exceptions as needed in Ausillary_stuff.lua from line 191. I have added most of the problematic punctuation, but this should be tested (I’m having trouble getting my keyboard to stay in German layout). Ask me if you need help with your own layout.
+for German keyboards. Then add keyboard exceptions as needed in Auxillary_stuff.lua from line 191. I have added most of the problematic punctuation, but this should be tested (I’m having trouble getting my keyboard to stay in German layout). Ask me if you need help with your own layout.
 
 You can look up your current layout by typing
 "setxkbmap -query".
