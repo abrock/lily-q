@@ -168,6 +168,7 @@ local keyCodes = {
     ["."] = 52,
     ["/"] = 53,
     [" "] = 57,
+    ["<"] = 94,
 }
 
 setmetatable(keyCodes, {
@@ -217,6 +218,7 @@ keyboardExceptions = {
         ["\\"] = "(G)-",
         ["("] = "(S)8",
         [")"] = "(S)9",
+        ["|"] = "(AC)<",
     
     },
 }
